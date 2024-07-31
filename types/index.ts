@@ -36,7 +36,11 @@ export type TechnologyT =
   | 'ReactJS'
   | 'JavaScript'
   | 'CSS3'
-  | 'HTML5';
+  | 'HTML5'
+  | 'Jest'
+  | 'Git'
+  | 'Github'
+  | 'Postman';
 
 export type HeaderT = {
   heading: string;

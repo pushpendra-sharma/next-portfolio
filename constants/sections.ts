@@ -2,12 +2,12 @@ import { SectionInfoT } from '@/types';
 
 export const sectionInfo: Array<SectionInfoT> = [
   {
-    heading: 'Technologies',
+    heading: 'Skills',
     info: "I'm familiar with HTML5, CSS3, Git, JavaScript, NodeJS, ReactJS, TailwindCSS, TypeScript and Web Hosting.",
   },
   {
     heading: 'Projects',
-    info: 'I like to showcase my work and thus, you can see my projects hosted   online.',
+    info: 'I like to showcase my work and thus, you can see my projects hosted online.',
     link: {
       label: 'See Projects',
       type: 'primary',

@@ -1,0 +1,37 @@
+think  ui from recruiter POV
+
+open projects links in new tab
+
+1. Write unit tests
+    - TDD
+
+2. Make Layout
+    - set metadata for different routes
+    - error
+    - loading
+    - online
+
+3. Make header and footer responsive, grid?no
+    - header
+        - brand image
+        - navigation buttons (should be highlighted if corresponds to active route)
+    - footer
+        - social links 
+
+4. create routes 
+    - homepage : '/'
+    - projects : '/projects'
+    - blogs : '/blogs'
+
+5. write sample data 
+    - homepage : hero data
+    - projects : sample project data of two category 
+    - blogs : simple blog on debugging
+
+6. create types
+    - project
+    - blog
+    - social links
+
+7. add animation if possible
+
